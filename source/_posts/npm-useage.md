@@ -9,6 +9,8 @@ tags:
 
 ## npm 的用法
 
+### npm基本命令
+
 `npm install <package name> <--save(-S) || --save-dev(-D)> ` package name是可选的，没有的时候默认按照package.json的配置安装
 `npm uninstall <package name>` 卸载包
 `npm update <package name>` 更新包
@@ -19,6 +21,9 @@ tags:
 
 1. `npm i nrm -g` 在全局安装nrm这个包.
 2. `npm install` 在当前目录下查找`package.json` 这个文件， 如果没找到这个文件，则报错， 找到则根据它的依赖安装。
+3. `npm install nrm -g --registry=https://registry.npm.taobao.org` --registry指定源，单次有效。
+4. `nrm use taobao` 使用淘宝源（加快国内下载速度）
 
-`npm install nrm -g --registry=https://registry.npm.taobao.org` --registry指定源，单次有效
-`nrm use taobao` 使用淘宝源（加快国内下载速度）
+
+###链接
+[npm.taobao.org](http://npm.taobao.org/)
