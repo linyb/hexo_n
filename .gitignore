@@ -4,10 +4,7 @@ db.json
 *.log
 node_modules/
 public/
-<<<<<<< HEAD
 .deploy*/
 .vscode
 .idea
-=======
 .deploy*/
->>>>>>> 235208bbcea05d3e6b15c57c830ea7cde4c5cbd0
