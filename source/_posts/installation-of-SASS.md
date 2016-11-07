@@ -14,10 +14,10 @@ tags: sass
 
 #### 安装过程遇到的情况
 
-1.	`gem install sass` 报错如下：![install error](images/sass_error_1.png)
-2.	1是由于路径被强掉，可用淘宝镜像一试`gem sources -a http://ruby.taobao.org`，结果报错如下：![sass_taobao_fail](images/sass_tb_fail.png)
-3.	于是改用腾讯云`gem sources -a http://gems.ruby-china.org/`代替，完美！![install success](images/sass_sussess.png)
-4.	`sass -v` 测试是否安装成功,完美！![sass_v](images/sass_v.png)
+1.	执行命令`gem install sass` 报错如下：                                                       ![install error](/img/sass_error_1.png)
+2.	1是由于路径被强掉，可用淘宝镜像一试`gem sources -a http://ruby.taobao.org`，结果报错如下：![sass_taobao_fail](/img/sass_tb_fail.png)
+3.	于是改用腾讯云`gem sources -a http://gems.ruby-china.org/`代替，完美！![install success](/img/sass_sussess.png)
+4.	执行命令`sass -v` 测试是否安装成功,完美！                                                     ![sass_v](/img/sass_v.png)
 
 
 <!--more-->
