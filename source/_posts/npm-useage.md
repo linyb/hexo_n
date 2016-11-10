@@ -25,5 +25,5 @@ tags:
 4. `nrm use taobao` 使用淘宝源（加快国内下载速度）
 
 
-###链接
+### 链接
 [npm.taobao.org](http://npm.taobao.org/)
