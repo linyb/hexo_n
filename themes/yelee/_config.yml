@@ -49,7 +49,7 @@ open_in_new: false
 
 # Miscellaneous
 #google_analytics: ''
-favicon: /favicon.png
+favicon: /img/avatar.png
 
 #你的头像url
 avatar: /img/avatar.png
@@ -69,8 +69,8 @@ disqus:
   # you have set "disqus_shortname" in your site's "_config.yml" 
 
 duoshuo: 
-  #on: true
-  domain: 
+  on: true
+  domain: linyb
   # 是否开启多说评论，http://duoshuo.com/create-site/
   # 使用上面网址登陆你的多说，然后创建站点，在 domain 中填入你设定的域名
   # http://你的多说域名.duoshuo.com
@@ -104,7 +104,7 @@ aboutme: 专注于前端
 
 #是否显示边栏中的搜索框 
 #Search Box in left column
-#search_box: true
+search_box: true
 
 #Site Verification for Google and Baidu. HTML label content.
 #百度、谷歌站长验证。填写 HTML 标签 content
