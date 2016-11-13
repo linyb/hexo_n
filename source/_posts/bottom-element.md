@@ -1,7 +1,10 @@
 ---
 title: bottom element
 date: 2016-11-10 17:17:30
-tags: html元素 固定 底部
+tags:
+- html元素
+- 固定
+- 底部
 ---
 
 ## 比较HTML元素固定在页面底部的几种做法
