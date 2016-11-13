@@ -2,9 +2,9 @@
 menu:
   home: /
   archives: /archives/
-  mood: /tags/随笔
-  tags: /tags/
-  about: /about/
+  mood: /archives/
+  tags: /archives/
+  about: /archives/
 
 # SubNav
 subnav:
