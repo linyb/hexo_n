@@ -36,7 +36,7 @@ tags:
 		  @include box-shadow(0 0 25px green,0 0 15px red);
 }
 ```
-![box-shadow](/img/box-shadow-2.png)
+![box-shadow](/img/box-shadow/box-shadow-2.png)
 
 2.	四边具有相同的阴影效果（只设置阴影模糊半径和阴影颜色）
 ```
@@ -61,7 +61,7 @@ tags:
 ```
 
 5.	测试结果
-![box-shadow](/img/box-shadow-1.png)
+![box-shadow](/img/box-shadow/box-shadow-1.png)
 
 6.	引用
 [w3cplus.box-shadow](http://www.w3cplus.com/content/css3-box-shadow)
