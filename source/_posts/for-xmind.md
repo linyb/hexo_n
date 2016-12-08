@@ -10,4 +10,4 @@ tags:
 
 #### 12月工作计划之思维导图
 
-![dinner](/img/xmind/task-1.png)
+![dinner](/img/xmind/task-1.PNG)
