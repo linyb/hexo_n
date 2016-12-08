@@ -8,6 +8,6 @@ tags:
 
 ### xmind
 
-#### 12月工作计划之思维导套
+#### 12月工作计划之思维导图
 
-![dinner](/img/xmind/12.png)
+![dinner](/img/xmind/task-1.png)
