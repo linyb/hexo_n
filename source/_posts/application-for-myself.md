@@ -15,33 +15,22 @@ tags:
 
 ------
 
-### 简介 {#profile}
+### 简介
 
 扎实的Java基础，富有激情与创意。
 
 ------
 
-### 技能 {#skills}
-
-* 移动端开发
-  : 一年移动端开发经验。
-
-* Java Web开发
-  : 一年Java Web开发经验。
+### 技能
 
 -------
 
-### 技术 {#technical}
+### 技术
 
-*	Java
-*	Git SVN
-*	html5 CSS3
-*	JQuery
-*	Bootstrap
-*	Oracle
 ------
 
-### 工作经验 {#experience}
+### 工作经验
+
 微现场
   __2016年12月-2016年2月__
   负责模块：后台管理页面开发、大屏web页面开发、移动端页面开发。
@@ -65,16 +54,11 @@ tags:
 
 ------
 
-### 学历 {#degree}
-
-学位
-: *福建农林大学*
-  __20011年至2015年__
-  学位与学校说明
+### 学历
 
 ------
 
-### Footer {#footer}
+### Footer
 
 Github: [https://github.com/linyb](https://github.com/linyb)
 Personal Blog: [http://linyb.github.io/](http://linyb.github.io/)
