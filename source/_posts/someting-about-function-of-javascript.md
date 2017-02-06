@@ -8,20 +8,21 @@ tags:
 - 声明提前
 ---
 
-## 数声明与函数表达式
+## 函数声明与函数表达式
 
 ### 如何定义函数
-*	函数声明
+
+##### 函数声明
 `function fName(arg1,arg2,...) {<!--function body-->}`
 
-*	函数表达式
+##### 函数表达式
 ```
 var fName = function(arg1,arg2,...) {<!--function body-->}
 或者
 var fname = function fName2(arg1,arg2,...) {<!--function body-->}
 ```
 
-*	new Function 构造函数
+##### new Function 构造函数
 `var fName = new Function();`
 
 ### 变量声明提前
