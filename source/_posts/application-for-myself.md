@@ -18,12 +18,12 @@ ______
 
 ### 个人信息
 
-*	林奕缤/女/1992
+*	林奕缤/女/1992.10.21
 *	本科/福建农林大学/计算机科学与技术专业
 *	工作年限：2~3年
 *	博客：[https://linyb.github.io](https://linyb.github.io)
 *	github: [https://github.com/linyb](https://github.com/linyb)
-*	应聘职位：前端工程师
+*	应聘职位：前端开发工程师
 *	期望薪资：12K
 *	期望城市：深圳
 
