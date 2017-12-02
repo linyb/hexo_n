@@ -28,6 +28,7 @@ tags:
 *	Xcode(7.0+),可以通过App Store或者到[Apple开发者官网][1]
 
 #### 推荐安装的工具
+
 *	Watchman:`brew install watchman`
 
 #### 测试安装
@@ -38,6 +39,7 @@ react-native run-ios
 ```
 
 #### 安装障碍
+
 1 执行react-native run-ios异常 ![react-native-ios-error](/img/react-native/react-native-ios.jpeg)
 异常原因：
 对于react-native版本高于0.45的创建项目，需要下载boost库，该库比较大，导致下载问题，参考[issues-1][2]和[issues-2][3]
@@ -60,6 +62,7 @@ react-native run-ios
 然后重新执行 react-native run-ios
 
 #### 说明
+
 以上四个包是`pro/node_modules/react-native/third-party`中所需的，之所以异常，因为缺少了这几个包
 
 
